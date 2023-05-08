@@ -1,0 +1,1 @@
+python -m signjoey test configs/example.yaml
